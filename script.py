@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot Only works in @Seriesloverskerala. So why are you wasting your time looking at this 😝.
+I'm an advanced filter bot Only works in <a href='https://t.me/Seriesloverskerala'>My Group</a>. So why are you wasting your time looking at this 😝.
 
 See /help for commands and more details.</b>
 """
@@ -51,12 +51,12 @@ See /help for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
 
-⭕️<b>Creater :</b> @Rahulthrilok   
+⭕️<b>Creater : @Rahulthrilok </b>  
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Language : Python3</b>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Bot Editor : <a href='https://t.me/evil_angel_TG'>Evil Angel</a> </b>
 
 """
