@@ -53,7 +53,7 @@ See /help for commands and more details.</b>
 
     ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
 
-⭕️<b>Creater : @Rahulthrilok </b>  
+⭕️<b>Creater : <a href='https://t.me/Rahulthrilok'>xxxᴛᴇɴᴛᴀᴄɪᴏɴ</a> </b>  
 
 ⭕️<b>Language : Python3</b>
 
