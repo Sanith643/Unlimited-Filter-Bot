@@ -51,12 +51,12 @@ See /help for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
+    ABOUT_MSG = """✨️<b>My Name : Filter Bot</b>
 
-⭕️<b>Creater : <a href='https://t.me/Rahulthrilok'>xxxᴛᴇɴᴛᴀᴄɪᴏɴ</a> </b>  
+🙂<b>Creater : <a href='https://t.me/Rahulthrilok'>xxxᴛᴇɴᴛᴀᴄɪᴏɴ</a> </b>  
 
-⭕️<b>Language : Python3</b>
+🗣️<b>Language : Python3</b>
 
-⭕️<b>Bot Editor : <a href='https://t.me/evil_angel_TG'>Evil Angel</a> </b>
+📚<b>Bot Editor : <a href='https://t.me/evil_angel_TG'>Evil Angel</a> </b>
 
 """
